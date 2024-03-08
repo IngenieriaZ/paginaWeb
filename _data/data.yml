@@ -112,43 +112,46 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
+        - name: Certificado Profesional en Desarrollo de Aplicaciones Móviles
+          start: 2024
+          end: 2026
+          organization: Google
           credentialurl: www.google.com
           credentialname: Google
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
+            Este certificado acredita un conocimiento avanzado en el diseño y 
+            desarrollo de aplicaciones para dispositivos móviles, utilizando 
+            las últimas tecnologías y prácticas recomendadas por Google. Durante 
+            el programa, profundicé en aspectos clave como la interfaz de usuario 
+            (UI), la experiencia de usuario (UX), la programación en Kotlin y Java 
+            para Android y el manejo de datos en dispositivos móviles. También 
+            abarcó el desarrollo de aplicaciones multiplataforma con Flutter, 
+            lo que me permite crear aplicaciones nativas para Android e iOS desde 
+            una única base de código. Este programa incluyó un proyecto final en 
+            el que desarrollé una aplicación móvil completa, la cual fue evaluada 
+            por profesionales de Google y recibí feedback constructivo que me ayudó 
+            a mejorar mis habilidades de desarrollo.
+        - name: Certificación en Metodologías Ágiles y Scrum
+          start: 2024
+          end: 2025
+          organization: Scrum Alliance
           credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialname: Scrum Alliance
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Esta certificación me preparó para liderar equipos de desarrollo 
+            de software utilizando el marco de trabajo Scrum, una de las 
+            metodologías ágiles más efectivas. Adquirí competencias en la 
+            planificación y supervisión de sprints, gestión de backlog y 
+            facilitación de las ceremonias de Scrum como las reuniones diarias, 
+            revisiones de sprint y retrospectivas. Además, esta certificación me 
+            enseñó a colaborar estrechamente con los propietarios de productos 
+            para asegurar que el desarrollo se alinee con los objetivos del negocio 
+            y las necesidades del cliente. A través de esta capacitación, he 
+            implementado Scrum en varios proyectos, lo que resultó en mejoras 
+            significativas en la comunicación del equipo, la entrega de productos 
+            y la satisfacción del cliente.
+
+
 
 projects:
     title: Projects
